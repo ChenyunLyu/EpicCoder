@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: Dash
+Created-By: 1.0.0_0 (RoaringSnow)
+Name: Dash
+Specification-Title: Minigame
+Specification-Version: 1.0
+Specification-Vendor: RoaringSnow
+Implementation-Title: dash
+Implementation-Version: build01
+Implementation-Vendor: RoaringSnow
